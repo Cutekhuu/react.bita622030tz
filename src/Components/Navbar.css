@@ -1,0 +1,18 @@
+.nav{
+    height: 800px;
+    width: 20%;
+    background-color: rgb(150, 92, 16);
+    float: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    height: 800px;
+    margin-top: 20px;
+    width: 79%;
+    float: right;
+    margin-left: 10px;
+}
+

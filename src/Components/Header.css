@@ -1,0 +1,10 @@
+
+.header {  
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    background-color: #5a1919;
+  }
